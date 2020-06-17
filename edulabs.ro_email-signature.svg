@@ -17,7 +17,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="edulabs.ro_email-signature.svg">
+   sodipodi:docname="edulabs.ro_email-signature.svg"
+   inkscape:export-filename="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_exported/_images/EdulLbs-signature.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <title
      id="title19954">Dirigio_Facebook-Banner_Email-Invitation-1200x630</title>
   <defs
@@ -44,11 +47,11 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2698413"
-     inkscape:cx="600"
-     inkscape:cy="315"
+     inkscape:cx="504.70676"
+     inkscape:cy="312.03951"
      inkscape:document-units="px"
      inkscape:current-layer="g12747"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
@@ -58,7 +61,7 @@
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="false"
      borderlayer="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -108,12 +111,12 @@
        id="guide12642"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="80.148786,63.94223"
+       position="88.552734,117.09797"
        orientation="1,0"
        id="guide12648"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="232.93241,49.061665"
+       position="227.94516,69.800391"
        orientation="1,0"
        id="guide12650"
        inkscape:locked="false" />
@@ -410,197 +413,180 @@
        id="g12747"
        inkscape:label="Text"
        transform="translate(0,-1e-5)">
+      <path
+         id="path12681"
+         d="m 160.86314,95.012079 h -0.57686 v 1.85728 h -0.8556 v -1.85728 h -0.40676 v -0.72694 h 0.40676 v -0.4706 c 0,-0.33615 0.15975,-0.86325 0.86295,-0.86325 l 0.63367,0.003 v 0.70555 h -0.45954 c -0.0756,0 -0.18148,0.0377 -0.18148,0.19817 v 0.42784 h 0.65172 l -0.0749,0.72624"
+         style="display:inline;opacity:1;fill:#0077b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36014211"
+         inkscape:connector-curvature="0" />
       <g
-         id="g12854">
+         style="display:inline;opacity:1;fill:#0077b1;fill-opacity:1;stroke-width:1.18240547"
+         transform="matrix(0.22843818,0,0,0.22843818,210.26686,-204.04135)"
+         id="g12689">
         <path
            inkscape:connector-curvature="0"
-           style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36014211"
-           d="m 127.89328,95.541236 h -0.57686 v 1.85728 h -0.8556 v -1.85728 h -0.40676 v -0.72694 h 0.40676 v -0.4706 c 0,-0.33615 0.15975,-0.86325 0.86295,-0.86325 l 0.63367,0.003 v 0.70555 h -0.45954 c -0.0756,0 -0.18148,0.0377 -0.18148,0.19817 v 0.42784 h 0.65172 l -0.0749,0.72624"
-           id="path12681"
-           transform="translate(0,1e-5)" />
-        <g
-           id="g12689"
-           transform="matrix(0.22843818,0,0,0.22843818,177.297,-203.51218)"
-           style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;stroke-width:1.18240547">
-          <path
-             id="path12683"
-             d="m -159.87273,1312.5382 c 0,1.8742 -1.51864,3.3914 -3.39137,3.3914 h -7.72494 c -1.87269,0 -3.39136,-1.5172 -3.39136,-3.3914 v -7.7234 c 0,-1.8742 1.51867,-3.3914 3.39136,-3.3914 h 7.72494 c 1.87273,0 3.39137,1.5172 3.39137,3.3914 z m -3.37235,-12.5135 h -7.76298 c -2.63496,0 -4.77103,2.1361 -4.77103,4.7696 v 7.7644 c 0,2.635 2.13607,4.7696 4.77103,4.7696 h 7.76298 c 2.63497,0 4.77104,-2.1346 4.77104,-4.7696 v -7.7644 c 0,-2.6335 -2.13607,-4.7696 -4.77104,-4.7696"
-             style="fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12685"
-             d="m -167.12657,1311.6502 c -1.64299,0 -2.97438,-1.33 -2.97438,-2.973 0,-1.643 1.33139,-2.9744 2.97438,-2.9744 1.64303,0 2.97442,1.3314 2.97442,2.9744 0,1.643 -1.33139,2.973 -2.97442,2.973 z m 0,-7.5333 c -2.51791,0 -4.56035,2.0409 -4.56035,4.5603 0,2.5179 2.04244,4.5604 4.56035,4.5604 2.5194,0 4.56036,-2.0425 4.56036,-4.5604 0,-2.5194 -2.04096,-4.5603 -4.56036,-4.5603"
-             style="fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path12687"
-             d="m -161.38845,1303.9647 c 0,0.5648 -0.45794,1.0227 -1.02267,1.0227 -0.56474,0 -1.0227,-0.4579 -1.0227,-1.0227 0,-0.5647 0.45796,-1.0227 1.0227,-1.0227 0.56473,0 1.02267,0.458 1.02267,1.0227"
-             style="fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
-             inkscape:connector-curvature="0" />
-        </g>
+           style="fill:#0077b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
+           d="m -159.87273,1312.5382 c 0,1.8742 -1.51864,3.3914 -3.39137,3.3914 h -7.72494 c -1.87269,0 -3.39136,-1.5172 -3.39136,-3.3914 v -7.7234 c 0,-1.8742 1.51867,-3.3914 3.39136,-3.3914 h 7.72494 c 1.87273,0 3.39137,1.5172 3.39137,3.3914 z m -3.37235,-12.5135 h -7.76298 c -2.63496,0 -4.77103,2.1361 -4.77103,4.7696 v 7.7644 c 0,2.635 2.13607,4.7696 4.77103,4.7696 h 7.76298 c 2.63497,0 4.77104,-2.1346 4.77104,-4.7696 v -7.7644 c 0,-2.6335 -2.13607,-4.7696 -4.77104,-4.7696"
+           id="path12683" />
         <path
-           id="path12691"
-           d="m 132.43617,96.154506 c 0,-0.48072 0,-0.95639 0,-1.44022 0.40811,0.23997 0.81233,0.47722 1.22549,0.71991 -0.41161,0.24192 -0.81583,0.47956 -1.22549,0.72031 z m 2.84238,-1.23597 c -0.002,-0.0563 -0.005,-0.11222 -0.009,-0.16813 -0.0182,-0.23726 -0.0448,-0.50907 -0.20157,-0.69856 -0.13396,-0.16231 -0.34171,-0.1992 -0.53897,-0.22133 -0.24967,-0.0283 -0.50052,-0.0454 -0.75175,-0.0551 -0.50867,-0.0194 -1.01774,-0.008 -1.52642,0.003 -0.26132,0.006 -0.52303,0.0117 -0.78359,0.0326 -0.31996,0.0252 -0.64925,0.0722 -0.79796,0.39218 -0.13396,0.28696 -0.11727,0.65119 -0.11921,0.95988 -0.002,0.27687 -0.002,0.55411 0.009,0.83059 0.0143,0.35918 0.0357,0.82708 0.42326,0.98434 0.20695,0.0843 0.45663,0.1029 0.67757,0.11727 0.23455,0.0151 0.46946,0.0136 0.70401,0.0171 0.49197,0.007 0.98396,-0.01 1.47553,-0.0194 0.34172,-0.007 0.69236,-0.0109 1.01931,-0.12232 0.28229,-0.0963 0.35569,-0.40189 0.39412,-0.66749 0.0377,-0.26366 0.0279,-0.53081 0.0275,-0.79641 -7.8e-4,-0.19609 0.005,-0.39218 -0.002,-0.58828"
-           style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34434196"
            inkscape:connector-curvature="0"
-           transform="translate(0,1e-5)" />
-        <g
-           id="g12699"
-           transform="matrix(0.17039625,0,0,0.17038264,119.40506,93.394897)"
-           style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;stroke-width:33.5883255">
-          <path
-             id="path12693"
-             d="M 23.994,24 V 23.999 H 24 v -8.802 c 0,-4.306 -0.927,-7.623 -5.961,-7.623 -2.42,0 -4.044,1.328 -4.707,2.587 h -0.07 V 7.976 H 8.489 v 16.023 h 4.97 v -7.934 c 0,-2.089 0.396,-4.109 2.983,-4.109 2.549,0 2.587,2.384 2.587,4.243 V 24 Z"
-             inkscape:connector-curvature="0"
-             style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255" />
-          <path
-             id="path12695"
-             d="M 0.396,7.977 H 5.372 V 24 H 0.396 Z"
-             inkscape:connector-curvature="0"
-             style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255" />
-          <path
-             id="path12697"
-             d="M 2.882,0 C 1.291,0 0,1.291 0,2.882 0,4.473 1.291,5.791 2.882,5.791 4.473,5.791 5.764,4.473 5.764,2.882 5.763,1.291 4.472,0 2.882,0 Z"
-             inkscape:connector-curvature="0"
-             style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255" />
-        </g>
-        <text
-           id="text12711"
+           style="fill:#0077b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
+           d="m -167.12657,1311.6502 c -1.64299,0 -2.97438,-1.33 -2.97438,-2.973 0,-1.643 1.33139,-2.9744 2.97438,-2.9744 1.64303,0 2.97442,1.3314 2.97442,2.9744 0,1.643 -1.33139,2.973 -2.97442,2.973 z m 0,-7.5333 c -2.51791,0 -4.56035,2.0409 -4.56035,4.5603 0,2.5179 2.04244,4.5604 4.56035,4.5604 2.5194,0 4.56036,-2.0425 4.56036,-4.5604 0,-2.5194 -2.04096,-4.5603 -4.56036,-4.5603"
+           id="path12685" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#0077b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
+           d="m -161.38845,1303.9647 c 0,0.5648 -0.45794,1.0227 -1.02267,1.0227 -0.56474,0 -1.0227,-0.4579 -1.0227,-1.0227 0,-0.5647 0.45796,-1.0227 1.0227,-1.0227 0.56473,0 1.02267,0.458 1.02267,1.0227"
+           id="path12687" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;opacity:1;fill:#0077b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34434196"
+         d="m 165.40603,95.625349 c 0,-0.48072 0,-0.95639 0,-1.44022 0.40811,0.23997 0.81233,0.47722 1.22549,0.71991 -0.41161,0.24192 -0.81583,0.47956 -1.22549,0.72031 z m 2.84238,-1.23597 c -0.002,-0.0563 -0.005,-0.11222 -0.009,-0.16813 -0.0182,-0.23726 -0.0448,-0.50907 -0.20157,-0.69856 -0.13396,-0.16231 -0.34171,-0.1992 -0.53897,-0.22133 -0.24967,-0.0283 -0.50052,-0.0454 -0.75175,-0.0551 -0.50867,-0.0194 -1.01774,-0.008 -1.52642,0.003 -0.26132,0.006 -0.52303,0.0117 -0.78359,0.0326 -0.31996,0.0252 -0.64925,0.0722 -0.79796,0.39218 -0.13396,0.28696 -0.11727,0.65119 -0.11921,0.95988 -0.002,0.27687 -0.002,0.55411 0.009,0.83059 0.0143,0.35918 0.0357,0.82708 0.42326,0.98434 0.20695,0.0843 0.45663,0.1029 0.67757,0.11727 0.23455,0.0151 0.46946,0.0136 0.70401,0.0171 0.49197,0.007 0.98396,-0.01 1.47553,-0.0194 0.34172,-0.007 0.69236,-0.0109 1.01931,-0.12232 0.28229,-0.0963 0.35569,-0.40189 0.39412,-0.66749 0.0377,-0.26366 0.0279,-0.53081 0.0275,-0.79641 -7.8e-4,-0.19609 0.005,-0.39218 -0.002,-0.58828"
+         id="path12691" />
+      <g
+         style="display:inline;opacity:1;fill:#0077b1;fill-opacity:1;stroke-width:33.5883255"
+         transform="matrix(0.17039625,0,0,0.17038264,152.37492,92.86573)"
+         id="g12699">
+        <path
+           style="fill:#0077b1;fill-opacity:1;stroke-width:33.5883255"
+           inkscape:connector-curvature="0"
+           d="M 23.994,24 V 23.999 H 24 v -8.802 c 0,-4.306 -0.927,-7.623 -5.961,-7.623 -2.42,0 -4.044,1.328 -4.707,2.587 h -0.07 V 7.976 H 8.489 v 16.023 h 4.97 v -7.934 c 0,-2.089 0.396,-4.109 2.983,-4.109 2.549,0 2.587,2.384 2.587,4.243 V 24 Z"
+           id="path12693" />
+        <path
+           style="fill:#0077b1;fill-opacity:1;stroke-width:33.5883255"
+           inkscape:connector-curvature="0"
+           d="M 0.396,7.977 H 5.372 V 24 H 0.396 Z"
+           id="path12695" />
+        <path
+           style="fill:#0077b1;fill-opacity:1;stroke-width:33.5883255"
+           inkscape:connector-curvature="0"
+           d="M 2.882,0 C 1.291,0 0,1.291 0,2.882 0,4.473 1.291,5.791 2.882,5.791 4.473,5.791 5.764,4.473 5.764,2.882 5.763,1.291 4.472,0 2.882,0 Z"
+           id="path12697" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32514477px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#8dbc3c;fill-opacity:1;stroke:none;stroke-width:0.36491218"
+         x="152.12779"
+         y="63.59322"
+         id="text12711"><tspan
+           sodipodi:role="line"
+           x="152.12779"
            y="63.59322"
-           x="109.62194"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32514477px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fc9335;fill-opacity:1;stroke:none;stroke-width:0.36491218"
-           xml:space="preserve"><tspan
-             id="tspan12709"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32514477px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#fc9335;fill-opacity:1;stroke-width:0.36491218"
-             y="63.59322"
-             x="109.62194"
-             sodipodi:role="line">Serdal Uteu</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="105.58707"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32514477px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#8dbc3c;fill-opacity:1;stroke-width:0.36491218"
+           id="tspan12709">Serdal Uteu</tspan></text>
+      <text
+         id="text12715"
+         y="72.076866"
+         x="151.96283"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
            y="72.076866"
-           id="text12715"><tspan
-             sodipodi:role="line"
-             x="105.58707"
-             y="72.076866"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-             id="tspan12713">Managing Partner</tspan></text>
-        <text
-           id="text12719"
+           x="151.96283"
+           sodipodi:role="line"
+           id="tspan12949">Co-Founder &amp; CEO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="152.25842"
+         y="81.601875"
+         id="text12719"><tspan
+           sodipodi:role="line"
+           x="152.25842"
            y="81.601875"
-           x="98.378716"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           xml:space="preserve"><tspan
-             id="tspan12717"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-             y="81.601875"
-             x="98.378716"
-             sodipodi:role="line">Tel.: + 40 771 209 721</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="79.996208"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
+           id="tspan12717">Tel.: +40 31 4252539, +40 735 885361</tspan></text>
+      <text
+         id="text12723"
+         y="87.951881"
+         x="151.96283"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan12721"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
            y="87.951881"
-           id="text12723"><tspan
-             sodipodi:role="line"
-             x="79.996208"
-             y="87.951881"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-             id="tspan12721">E-mail: serdal.uteu@edulabs.ro</tspan></text>
-      </g>
-      <g
-         id="g12824">
-        <image
-           sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs_visual-identity/_exported/_logo/_full-lockup/EduLabs_Logo_Color.png"
-           y="39.390316"
-           x="147.45033"
-           id="image12679"
-           xlink:href="file:///home/iprofor/Projects/ghub/iprofor/edulabs/edulabs_visual-identity/_exported/_logo/_full-lockup/EduLabs_Logo_Color.png"
-           style="display:inline;opacity:1;image-rendering:optimizeQuality"
-           preserveAspectRatio="none"
-           height="50.593063"
-           width="89.943222" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="152.36356"
-           y="81.315178"
-           id="text12707"><tspan
-             sodipodi:role="line"
-             x="152.36356"
-             y="81.315178"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-             id="tspan12705">EduLabs Management &amp; Consulting SRL</tspan></text>
-        <text
-           id="text12727"
-           y="96.947685"
-           x="152.64572"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0290fc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           xml:space="preserve"><tspan
-             id="tspan12725"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#0290fc;fill-opacity:1;stroke-width:0.26458332"
-             y="96.947685"
-             x="152.64572"
-             sodipodi:role="line">www.edulabs.ro</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="152.62332"
-           y="87.951866"
-           id="text12731"><tspan
-             sodipodi:role="line"
-             x="152.62332"
-             y="87.951866"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-             id="tspan12729">4, Splaiul Unirii, Bucharest</tspan></text>
-      </g>
+           x="151.96283"
+           sodipodi:role="line">E-mail: serdal.uteu@edusoftech.eu</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path12733"
          d="m 146.97572,54.830576 v 42.14986"
-         style="fill:none;stroke:#fc9335;stroke-width:0.3259002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#8dbb3d;stroke-width:0.3259002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          id="text12745"
-         y="108.9069"
-         x="80.092331"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:2.17000008ex;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
-           y="108.9069"
-           x="80.092331"
+         y="107.7879"
+         x="89.478653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.1898365px;line-height:2.17000008ex;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666;fill-opacity:1;stroke:none;stroke-width:0.26186478"
+         xml:space="preserve"
+         transform="scale(0.98972522,1.0103814)"><tspan
+           style="font-size:3.49153066px;line-height:0.56999999ex;fill:#666;stroke-width:0.26186478"
+           y="107.7879"
+           x="89.478653"
            id="tspan12735"
-           sodipodi:role="line">The content of this email is confidential and intended for the recipient specified in</tspan><tspan
+           sodipodi:role="line">The content of this email is confidential and intended for the recipient specified</tspan><tspan
            id="tspan12737"
-           style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
-           y="113.50007"
-           x="80.092331"
-           sodipodi:role="line">message only. It is strictly forbidden to share any part of this message with any third</tspan><tspan
+           style="font-size:3.49153066px;line-height:0.56999999ex;fill:#666;stroke-width:0.26186478"
+           y="112.33388"
+           x="89.478653"
+           sodipodi:role="line">in message only. It is strictly forbidden to share any part of this message with any</tspan><tspan
            id="tspan12739"
-           style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
-           y="118.09324"
-           x="80.092331"
-           sodipodi:role="line">party, without a written consent of the sender. If you received this message by mistake,</tspan><tspan
+           style="font-size:3.49153066px;line-height:0.56999999ex;fill:#666;stroke-width:0.26186478"
+           y="116.87984"
+           x="89.478653"
+           sodipodi:role="line">third party, without a written consent of the sender. If you received this message</tspan><tspan
            id="tspan12741"
-           style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
-           y="122.68639"
-           x="80.092331"
-           sodipodi:role="line">please reply to this message and follow with its deletion, so that we can ensure such a</tspan><tspan
+           style="font-size:3.49153066px;line-height:0.56999999ex;fill:#666;stroke-width:0.26186478"
+           y="121.42582"
+           x="89.478653"
+           sodipodi:role="line">by mistake, please reply to this message and follow with its deletion, so that we</tspan><tspan
            id="tspan12743"
-           style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
-           y="127.27956"
-           x="80.092331"
-           sodipodi:role="line">mistake does not occur in the future.</tspan></text>
+           style="font-size:3.49153066px;line-height:0.56999999ex;fill:#666;stroke-width:0.26186478"
+           y="125.97179"
+           x="89.478653"
+           sodipodi:role="line">can ensure such a mistake does not occur in the future.</tspan></text>
       <image
          sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_assets/_logos/unnamed.jpg"
          xlink:href="_assets/_logos/unnamed.jpg"
-         width="53.509335"
-         height="19.219334"
+         width="59.968475"
+         height="21.539309"
          preserveAspectRatio="none"
          style="image-rendering:optimizeQuality"
          id="image12813"
-         x="67.00705"
-         y="16.226906" />
+         x="84.925941"
+         y="53.816013" />
+      <text
+         id="text12707"
+         y="81.315178"
+         x="89.317497"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
+           y="81.315178"
+           x="89.317497"
+           sodipodi:role="line"
+           id="tspan12941">Edusoft Technologies SRL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0077b1;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="101.52622"
+         y="96.947685"
+         id="text12727"><tspan
+           sodipodi:role="line"
+           x="101.52622"
+           y="96.947685"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#0077b1;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan12725">www.edusoftech.eu</tspan></text>
+      <text
+         id="text12731"
+         y="87.951866"
+         x="90.327423"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan12729"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
+           y="87.951866"
+           x="90.327423"
+           sodipodi:role="line">4, Splaiul Unirii, Bucharest</tspan></text>
     </g>
   </g>
 </svg>
