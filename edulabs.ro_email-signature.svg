@@ -18,7 +18,7 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="edulabs.ro_email-signature.svg"
-   inkscape:export-filename="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_exported/_images/EdulLbs-signature.png"
+   inkscape:export-filename="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_exported/_images/EduSoft-signature.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <title
@@ -28,7 +28,7 @@
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile59" />
+       id="color-profile3" />
     <linearGradient
        id="Qubeso_Muddy-Blue"
        osb:paint="solid"
@@ -38,6 +38,28 @@
          offset="0"
          id="stop24550" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath940">
+      <rect
+         y="17.918919"
+         x="-30.837189"
+         height="27.503437"
+         width="67.300072"
+         id="rect942"
+         style="opacity:1;vector-effect:none;fill:maroon;fill-opacity:1;stroke:none;stroke-width:1.15595102;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath944">
+      <rect
+         style="opacity:1;vector-effect:none;fill:maroon;fill-opacity:1;stroke:none;stroke-width:1.28366959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect946"
+         width="86.26078"
+         height="26.461639"
+         x="-40.421719"
+         y="48.660194" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -47,10 +69,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2698413"
-     inkscape:cx="504.70676"
-     inkscape:cy="312.03951"
+     inkscape:cx="556.86236"
+     inkscape:cy="273.83748"
      inkscape:document-units="px"
-     inkscape:current-layer="g12747"
+     inkscape:current-layer="svg8"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
@@ -96,7 +118,7 @@
        id="guide536"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="153.4197,77.636859"
+       position="162.65489,78.675461"
        orientation="0,1"
        id="guide538"
        inkscape:locked="false" />
@@ -106,7 +128,7 @@
        id="guide540"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="151.64661,68.719915"
+       position="160.74925,69.800389"
        orientation="0,1"
        id="guide12642"
        inkscape:locked="false" />
@@ -119,6 +141,11 @@
        position="227.94516,69.800391"
        orientation="1,0"
        id="guide12650"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="152.48895,84.863418"
+       orientation="0,1"
+       id="guide1031"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -171,81 +198,47 @@
       <image
          sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_assets/_illustrations/Screenshot_20200617_151106.png"
          xlink:href="_assets/_illustrations/Screenshot_20200617_151106.png"
-         width="143.62309"
-         height="89.320374"
-         preserveAspectRatio="none"
-         style="display:inline;image-rendering:optimizeQuality"
-         id="image184"
+         y="162.71237"
          x="77.636841"
-         y="162.71237" />
+         id="image184"
+         style="display:inline;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="89.320374"
+         width="143.62309" />
     </g>
     <g
        style="display:inline"
        inkscape:label="Shapes"
        id="g1394"
        inkscape:groupmode="layer">
-      <image
-         transform="translate(0,-1e-5)"
-         sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs_visual-identity/_exported/_logo/_full-lockup/EduLabs_Logo_Color.png"
-         y="39.390316"
-         x="147.45033"
-         id="image507"
-         xlink:href="file:///home/iprofor/Projects/ghub/iprofor/edulabs/edulabs_visual-identity/_exported/_logo/_full-lockup/EduLabs_Logo_Color.png"
-         style="display:inline;opacity:1;image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="50.593063"
-         width="89.943222" />
-      <path
-         transform="translate(0,-1e-5)"
-         inkscape:connector-curvature="0"
-         style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36014211"
-         d="m 127.89328,95.541246 h -0.57686 v 1.85728 h -0.8556 v -1.85728 h -0.40676 v -0.72694 h 0.40676 v -0.4706 c 0,-0.33615 0.15975,-0.86325 0.86295,-0.86325 l 0.63367,0.003 v 0.70555 h -0.45954 c -0.0756,0 -0.18148,0.0377 -0.18148,0.19817 v 0.42784 h 0.65172 l -0.0749,0.72624"
-         id="path64173" />
       <g
-         id="g64181"
-         transform="matrix(0.22843818,0,0,0.22843818,177.297,-203.51219)"
-         style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;stroke-width:1.18240547">
+         id="g1064"
+         transform="translate(46.728147)">
         <path
-           id="path64175"
-           d="m -159.87273,1312.5382 c 0,1.8742 -1.51864,3.3914 -3.39137,3.3914 h -7.72494 c -1.87269,0 -3.39136,-1.5172 -3.39136,-3.3914 v -7.7234 c 0,-1.8742 1.51867,-3.3914 3.39136,-3.3914 h 7.72494 c 1.87273,0 3.39137,1.5172 3.39137,3.3914 z m -3.37235,-12.5135 h -7.76298 c -2.63496,0 -4.77103,2.1361 -4.77103,4.7696 v 7.7644 c 0,2.635 2.13607,4.7696 4.77103,4.7696 h 7.76298 c 2.63497,0 4.77104,-2.1346 4.77104,-4.7696 v -7.7644 c 0,-2.6335 -2.13607,-4.7696 -4.77104,-4.7696"
-           style="fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
+           id="path64173"
+           d="m 141.12247,95.012069 h -0.57686 v 1.85728 h -0.8556 v -1.85728 h -0.40676 v -0.72694 h 0.40676 v -0.4706 c 0,-0.33615 0.15975,-0.86325 0.86295,-0.86325 l 0.63367,0.003 v 0.70555 h -0.45954 c -0.0756,0 -0.18148,0.0377 -0.18148,0.19817 v 0.42784 h 0.65172 l -0.0749,0.72624"
+           style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36014211"
            inkscape:connector-curvature="0" />
-        <path
-           id="path64177"
-           d="m -167.12657,1311.6502 c -1.64299,0 -2.97438,-1.33 -2.97438,-2.973 0,-1.643 1.33139,-2.9744 2.97438,-2.9744 1.64303,0 2.97442,1.3314 2.97442,2.9744 0,1.643 -1.33139,2.973 -2.97442,2.973 z m 0,-7.5333 c -2.51791,0 -4.56035,2.0409 -4.56035,4.5603 0,2.5179 2.04244,4.5604 4.56035,4.5604 2.5194,0 4.56036,-2.0425 4.56036,-4.5604 0,-2.5194 -2.04096,-4.5603 -4.56036,-4.5603"
-           style="fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path64179"
-           d="m -161.38845,1303.9647 c 0,0.5648 -0.45794,1.0227 -1.02267,1.0227 -0.56474,0 -1.0227,-0.4579 -1.0227,-1.0227 0,-0.5647 0.45796,-1.0227 1.0227,-1.0227 0.56473,0 1.02267,0.458 1.02267,1.0227"
-           style="fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.57654071"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         transform="translate(0,-1e-5)"
-         id="path52155-3"
-         d="m 132.43617,96.154516 c 0,-0.48072 0,-0.95639 0,-1.44022 0.40811,0.23997 0.81233,0.47722 1.22549,0.71991 -0.41161,0.24192 -0.81583,0.47956 -1.22549,0.72031 z m 2.84238,-1.23597 c -0.002,-0.0563 -0.005,-0.11222 -0.009,-0.16813 -0.0182,-0.23726 -0.0448,-0.50907 -0.20157,-0.69856 -0.13396,-0.16231 -0.34171,-0.1992 -0.53897,-0.22133 -0.24967,-0.0283 -0.50052,-0.0454 -0.75175,-0.0551 -0.50867,-0.0194 -1.01774,-0.008 -1.52642,0.003 -0.26132,0.006 -0.52303,0.0117 -0.78359,0.0326 -0.31996,0.0252 -0.64925,0.0722 -0.79796,0.39218 -0.13396,0.28696 -0.11727,0.65119 -0.11921,0.95988 -0.002,0.27687 -0.002,0.55411 0.009,0.83059 0.0143,0.35918 0.0357,0.82708 0.42326,0.98434 0.20695,0.0843 0.45663,0.1029 0.67757,0.11727 0.23455,0.0151 0.46946,0.0136 0.70401,0.0171 0.49197,0.007 0.98396,-0.01 1.47553,-0.0194 0.34172,-0.007 0.69236,-0.0109 1.01931,-0.12232 0.28229,-0.0963 0.35569,-0.40189 0.39412,-0.66749 0.0377,-0.26366 0.0279,-0.53081 0.0275,-0.79641 -7.8e-4,-0.19609 0.005,-0.39218 -0.002,-0.58828"
-         style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34434196"
-         inkscape:connector-curvature="0" />
-      <g
-         id="g7268"
-         transform="matrix(0.17039625,0,0,0.17038264,119.40506,93.394887)"
-         style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;stroke-width:33.5883255">
-        <path
-           id="path7252"
-           d="M 23.994,24 V 23.999 H 24 v -8.802 c 0,-4.306 -0.927,-7.623 -5.961,-7.623 -2.42,0 -4.044,1.328 -4.707,2.587 h -0.07 V 7.976 H 8.489 v 16.023 h 4.97 v -7.934 c 0,-2.089 0.396,-4.109 2.983,-4.109 2.549,0 2.587,2.384 2.587,4.243 V 24 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255" />
-        <path
-           id="path7254"
-           d="M 0.396,7.977 H 5.372 V 24 H 0.396 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255" />
-        <path
-           id="path7256"
-           d="M 2.882,0 C 1.291,0 0,1.291 0,2.882 0,4.473 1.291,5.791 2.882,5.791 4.473,5.791 5.764,4.473 5.764,2.882 5.763,1.291 4.472,0 2.882,0 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255" />
+        <g
+           style="display:inline;opacity:1;fill:#0290fc;fill-opacity:1;stroke-width:33.5883255"
+           transform="matrix(0.17039625,0,0,0.17038264,132.63425,92.86572)"
+           id="g7268">
+          <path
+             style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255"
+             inkscape:connector-curvature="0"
+             d="M 23.994,24 V 23.999 H 24 v -8.802 c 0,-4.306 -0.927,-7.623 -5.961,-7.623 -2.42,0 -4.044,1.328 -4.707,2.587 h -0.07 V 7.976 H 8.489 v 16.023 h 4.97 v -7.934 c 0,-2.089 0.396,-4.109 2.983,-4.109 2.549,0 2.587,2.384 2.587,4.243 V 24 Z"
+             id="path7252" />
+          <path
+             style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255"
+             inkscape:connector-curvature="0"
+             d="M 0.396,7.977 H 5.372 V 24 H 0.396 Z"
+             id="path7254" />
+          <path
+             style="fill:#0290fc;fill-opacity:1;stroke-width:33.5883255"
+             inkscape:connector-curvature="0"
+             d="M 2.882,0 C 1.291,0 0,1.291 0,2.882 0,4.473 1.291,5.791 2.882,5.791 4.473,5.791 5.764,4.473 5.764,2.882 5.763,1.291 4.472,0 2.882,0 Z"
+             id="path7256" />
+        </g>
       </g>
     </g>
     <g
@@ -257,123 +250,133 @@
       <image
          sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_assets/_illustrations/Screenshot_20200617_151231.png"
          xlink:href="_assets/_illustrations/Screenshot_20200617_151231.png"
-         width="155.31041"
-         height="31.220833"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image173"
+         y="-60.174953"
          x="-103.0116"
-         y="-60.174953" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="152.36356"
-         y="81.315178"
-         id="text189"><tspan
-           sodipodi:role="line"
-           x="152.36356"
-           y="81.315178"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-           id="tspan201">EduLabs Management &amp; Consulting SRL</tspan></text>
+         id="image173"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="31.220833"
+         width="155.31041" />
       <text
          id="text217"
          y="63.59322"
-         x="109.62195"
+         x="179.11539"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32514477px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fc9335;fill-opacity:1;stroke:none;stroke-width:0.36491218"
          xml:space="preserve"><tspan
            id="tspan215"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32514477px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#fc9335;fill-opacity:1;stroke-width:0.36491218"
            y="63.59322"
-           x="109.62195"
+           x="179.11539"
            sodipodi:role="line">Serdal Uteu</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="105.58707"
+         x="178.95042"
          y="72.076866"
          id="text247"><tspan
            sodipodi:role="line"
-           x="105.58707"
+           x="178.95042"
            y="72.076866"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
            id="tspan245">Managing Partner</tspan></text>
       <text
          id="text270"
          y="81.601875"
-         x="98.378716"
+         x="179.24602"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan268"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
            y="81.601875"
-           x="98.378716"
+           x="179.24602"
            sodipodi:role="line">Tel.: + 40 771 209 721</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="79.996208"
+         x="178.95042"
          y="87.951881"
          id="text289"><tspan
            sodipodi:role="line"
-           x="79.996208"
+           x="178.95042"
            y="87.951881"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
            id="tspan287">E-mail: serdal.uteu@edulabs.ro</tspan></text>
+      <image
+         sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs_visual-identity/_exported/_logo/_full-lockup/EduLabs_Logo_Color.png"
+         y="38.335495"
+         x="82.604256"
+         id="image507"
+         xlink:href="file:///home/iprofor/Projects/ghub/iprofor/edulabs/edulabs_visual-identity/_exported/_logo/_full-lockup/EduLabs_Logo_Color.png"
+         style="display:inline;opacity:1;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="51.647884"
+         width="91.818459" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="88.312027"
+         y="81.315178"
+         id="text189"><tspan
+           sodipodi:role="line"
+           x="88.312027"
+           y="81.315178"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
+           id="tspan201">EduLabs Management &amp; Consulting SRL</tspan></text>
       <text
          id="text302"
          y="96.947685"
-         x="152.64572"
+         x="136.64983"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0290fc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan300"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#0290fc;fill-opacity:1;stroke-width:0.26458332"
            y="96.947685"
-           x="152.64572"
+           x="136.64983"
            sodipodi:role="line">www.edulabs.ro</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="152.62332"
+         x="117.84408"
          y="87.951866"
          id="text310"><tspan
            sodipodi:role="line"
-           x="152.62332"
+           x="117.84408"
            y="87.951866"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
            id="tspan314">4, Splaiul Unirii, Bucharest</tspan></text>
       <path
          style="fill:none;stroke:#fc9335;stroke-width:0.3259002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 146.97572,54.830576 v 42.14986"
+         d="m 173.96324,54.830576 v 42.14986"
          id="path528"
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:2.17000008ex;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="80.092331"
+         x="88.55899"
          y="108.9069"
          id="text12646"><tspan
            sodipodi:role="line"
            id="tspan12644"
-           x="80.092331"
+           x="88.55899"
            y="108.9069"
            style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332">The content of this email is confidential and intended for the recipient specified in</tspan><tspan
            sodipodi:role="line"
-           x="80.092331"
+           x="88.55899"
            y="113.50007"
            style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
            id="tspan12652">message only. It is strictly forbidden to share any part of this message with any third</tspan><tspan
            sodipodi:role="line"
-           x="80.092331"
+           x="88.55899"
            y="118.09323"
            style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
            id="tspan12654">party, without a written consent of the sender. If you received this message by mistake,</tspan><tspan
            sodipodi:role="line"
-           x="80.092331"
+           x="88.55899"
            y="122.6864"
            style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
            id="tspan12656">please reply to this message and follow with its deletion, so that we can ensure such a</tspan><tspan
            sodipodi:role="line"
-           x="80.092331"
+           x="88.55899"
            y="127.27956"
            style="font-size:3.52777767px;line-height:0.56999999ex;fill:#666;stroke-width:0.26458332"
            id="tspan12658">mistake does not occur in the future.</tspan></text>
@@ -394,13 +397,13 @@
       <image
          sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_assets/_illustrations/Screenshot_20200617_151106.png"
          xlink:href="_assets/_illustrations/Screenshot_20200617_151106.png"
-         y="162.71237"
-         x="77.636841"
-         id="image12675"
-         style="display:inline;image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
+         width="143.62309"
          height="89.320374"
-         width="143.62309" />
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeQuality"
+         id="image12675"
+         x="77.636841"
+         y="162.71237" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -467,21 +470,21 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32514477px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#8dbc3c;fill-opacity:1;stroke:none;stroke-width:0.36491218"
          x="152.12779"
-         y="63.59322"
+         y="62.164211"
          id="text12711"><tspan
            sodipodi:role="line"
            x="152.12779"
-           y="63.59322"
+           y="62.164211"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.32514477px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#8dbc3c;fill-opacity:1;stroke-width:0.36491218"
            id="tspan12709">Serdal Uteu</tspan></text>
       <text
          id="text12715"
-         y="72.076866"
+         y="70.489365"
          x="151.96283"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-           y="72.076866"
+           y="70.489365"
            x="151.96283"
            sodipodi:role="line"
            id="tspan12949">Co-Founder &amp; CEO</tspan></text>
@@ -495,7 +498,7 @@
            x="152.25842"
            y="81.601875"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-           id="tspan12717">Tel.: +40 31 4252539, +40 735 885361</tspan></text>
+           id="tspan12717">Tel.: +40 735 885361</tspan></text>
       <text
          id="text12723"
          y="87.951881"
@@ -510,8 +513,8 @@
       <path
          inkscape:connector-curvature="0"
          id="path12733"
-         d="m 146.97572,54.830576 v 42.14986"
-         style="fill:none;stroke:#8dbb3d;stroke-width:0.3259002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         d="M 146.97572,54.062503 V 96.980436"
+         style="fill:none;stroke:#8dbb3d;stroke-width:0.32885614px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          id="text12745"
          y="107.7879"
@@ -544,24 +547,14 @@
            y="125.97179"
            x="89.478653"
            sodipodi:role="line">can ensure such a mistake does not occur in the future.</tspan></text>
-      <image
-         sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_assets/_logos/unnamed.jpg"
-         xlink:href="_assets/_logos/unnamed.jpg"
-         width="59.968475"
-         height="21.539309"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image12813"
-         x="84.925941"
-         y="53.816013" />
       <text
          id="text12707"
-         y="81.315178"
+         y="74.965187"
          x="89.317497"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-           y="81.315178"
+           y="74.965187"
            x="89.317497"
            sodipodi:role="line"
            id="tspan12941">Edusoft Technologies SRL</tspan></text>
@@ -569,24 +562,63 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0077b1;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="101.52622"
-         y="96.947685"
+         y="96.947701"
          id="text12727"><tspan
            sodipodi:role="line"
            x="101.52622"
-           y="96.947685"
+           y="96.947701"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#0077b1;fill-opacity:1;stroke-width:0.26458332"
            id="tspan12725">www.edusoftech.eu</tspan></text>
       <text
          id="text12731"
-         y="87.951866"
+         y="81.601875"
          x="90.327423"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan12729"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
-           y="87.951866"
+           y="81.601875"
            x="90.327423"
            sodipodi:role="line">4, Splaiul Unirii, Bucharest</tspan></text>
+      <g
+         id="g950"
+         style="opacity:1"
+         transform="matrix(0.33352709,0,0,0.33352709,98.784931,49.417891)">
+        <image
+           sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_assets/_logos/56757185_328110494728883_2392555585716355072_o.jpg"
+           xlink:href="_assets/_logos/56757185_328110494728883_2392555585716355072_o.jpg"
+           y="8.2986727"
+           x="-48.091328"
+           id="image931"
+           style="image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="79.247993"
+           width="101.6"
+           clip-path="url(#clipPath944)"
+           transform="translate(81.69341,-31.687161)" />
+        <image
+           sodipodi:absref="/home/iprofor/Projects/ghub/iprofor/edulabs/edulabs.ro_email-signature/_assets/_logos/56757185_328110494728883_2392555585716355072_o.jpg"
+           xlink:href="_assets/_logos/56757185_328110494728883_2392555585716355072_o.jpg"
+           width="101.6"
+           height="79.247993"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeQuality"
+           id="image938"
+           x="-48.091328"
+           y="8.2986727"
+           clip-path="url(#clipPath940)" />
+      </g>
+      <text
+         id="text1029"
+         y="87.951874"
+         x="100.40009"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1027"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.26458332"
+           y="87.951874"
+           x="100.40009"
+           sodipodi:role="line">Tel.: +40 31 4252539</tspan></text>
     </g>
   </g>
 </svg>
